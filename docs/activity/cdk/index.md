@@ -3,7 +3,7 @@ next:
   text: '浏览往期兑换码'
 ---
 
-<style scoped>
+<style>
 .badges-center {
   display: flex;
   gap: 10px;

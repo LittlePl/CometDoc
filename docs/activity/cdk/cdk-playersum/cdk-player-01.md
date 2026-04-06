@@ -3,7 +3,7 @@
     text: '玩家贡献兑换码简介'
 ---
 
-<style scoped>
+<style>
 .badges-center {
   display: flex;
   gap: 10px;

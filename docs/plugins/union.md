@@ -1,4 +1,4 @@
-<style scoped>
+<style>
 .badges-center {
   display: flex;
   gap: 10px;
