@@ -129,3 +129,13 @@
   --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
 }
 
+.badges-center {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.inpic {
+  display: inline-block;
+  margin: 0 0 -20px 0;
+}

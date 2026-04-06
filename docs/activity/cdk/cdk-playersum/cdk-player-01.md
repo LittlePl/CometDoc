@@ -3,14 +3,6 @@
     text: '玩家贡献兑换码简介'
 ---
 
-<style>
-.badges-center {
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-}
-</style>
-
 # CDKey 玩家贡献 1
 
 ## 基本信息

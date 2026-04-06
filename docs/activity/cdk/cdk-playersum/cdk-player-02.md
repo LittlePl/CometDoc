@@ -1,11 +1,3 @@
-<style>
-.badges-center {
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-}
-</style>
-
 # CDKey 玩家贡献 2
 
 ## 基本信息

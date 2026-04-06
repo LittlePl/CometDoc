@@ -3,14 +3,6 @@ next:
   text: '浏览往期兑换码'
 ---
 
-<style>
-.badges-center {
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-}
-</style>
-
 # 兑换码（CDKey）
 ## 兑换码是什么?
 兑换码（又称CDKey）严格来说是一串由多个字符组成的代码，玩家可以通过这串代码在游戏内兑换神秘奖励。

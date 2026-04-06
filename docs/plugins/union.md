@@ -1,15 +1,3 @@
-<style>
-.badges-center {
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-}
-.inpic {
-  display: inline-block;
-  margin: 0 0 -20px 0;
-}
-</style>
-
 # 联盟系统 <Badge type="tip" text="生存"/>
 ## 简介
 联盟系统是 **Comet 生存服务器** 的一个插件功能，玩家可以使用该系统组建一个玩家团体。
