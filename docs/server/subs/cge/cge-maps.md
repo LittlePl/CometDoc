@@ -16,6 +16,7 @@
 
 ### 遗迹   <Badge type="info" text="原创" />
 ![宣传图](https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/008EsglKly1ibx0ru652nj31hc0u0axu.jpg "宣传图")
+![宣传图](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008EsglKly1ibxl63u316j318g0p0kjl.jpg "宣传图")
 - 上线日期：2023.8.19
 - 难度评价：简单
 - 地图大小：较小
@@ -23,6 +24,7 @@
 
 ### 仓库   <Badge type="info" text="原创" />
 ![宣传图](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008EsglKly1ibx0rtaxc1j31hc0u0dzn.jpg "宣传图")
+![宣传图](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/008EsglKly1ibxl657893j318g0p07wh.jpg "宣传图")
 - 上线日期：2023.8.3
 - 难度评价：困难
 - 地图大小：大
@@ -30,6 +32,8 @@
 
 ### 大桥   <Badge type="info" text="原创" />
 ![宣传图](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/008EsglKly1ibx0rtqxg7j31hc0u07sb.jpg "宣传图")
+![宣传图](https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/008EsglKly1ibxldjlnh6j31z41401ky.jpg "宣传图")
+![宣传图](https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/008EsglKly1ibxldiuvt0j31z4140kjm.jpg "宣传图")
 - 上线日期：2023.8.6
 - 难度评价：简单
 - 地图大小：大
@@ -37,6 +41,7 @@
 
 ### 星球   <Badge type="info" text="原创" />
 ![宣传图](https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/008EsglKly1ibx0ruld16j31hc0u0qpq.jpg "宣传图")
+![宣传图](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008EsglKly1ibxlef1dxpj318g0p04qp.jpg "宣传图")
 - 上线日期：2023.10.1
 - 难度评价：简单
 - 地图大小：大
@@ -44,6 +49,7 @@
 
 ### 神庙   <Badge type="info" text="原创" /> <Badge type="info" text="适合冷兵器" />
 ![宣传图](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/008EsglKly1ibx0ruyi53j31hc0u0njf.jpg "宣传图")
+![宣传图](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008EsglKly1ibxl620i87j318g0p0hdt.jpg "宣传图")
 - 上线日期：2024.1.19
 - 难度评价：普通
 - 地图大小：小
@@ -51,6 +57,8 @@
 
 ### 银行   <Badge type="info" text="原创" />
 ![宣传图](https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/008EsglKly1ibx0rvjmmxj31hc0u07wh.jpg "宣传图")
+![宣传图](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/008EsglKly1ibxl62eq7xj318g0p01kx.jpg "宣传图")
+![宣传图](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/008EsglKly1ibxl62r70ej318g0p04qp.jpg "宣传图")
 - 上线日期：2024.2.15
 - 难度评价：困难
 - 地图大小：大
@@ -110,3 +118,8 @@
 ![宣传图](https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/008EsglKly1ibxk6hcjffj31z4140u0x.jpg "宣传图")
 - 正在完善，暂未上线。
 - 特殊点：雪原生物群系。
+
+## 初始区域
+### 出生点小屋
+![宣传图](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/008EsglKly1ibxl65janwj318g0p04qp.jpg "宣传图")
+![宣传图](https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/008EsglKly1ibwz539xjuj318g0p0qp4.jpg "宣传图")
