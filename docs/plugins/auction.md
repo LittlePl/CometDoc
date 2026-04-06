@@ -28,7 +28,7 @@
 当竞拍价提出成功，**出价的玩家需支付相应的手续费**，同时物品的价格会变为该玩家的出价，并以**当前价**显示。
 
 <div align="center">
-	<img src="https://tvax2.sinaimg.cn/large/008EsglKly1ibwxx5lsm7j30ph0mjn5y.jpg" width="500x"><br>
+	<img src="https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/008EsglKly1ibwxx5lsm7j30ph0mjn5y.jpg" width="500x"><br>
 </div>
 
 当拍卖时间结束后，出价最高者会得到此物品，同时起拍玩家会得到对应的价钱并通知全部在线玩家，一轮拍卖到此结束。

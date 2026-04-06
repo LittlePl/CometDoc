@@ -20,7 +20,7 @@ next:
 我们采用这种设计，皆在激励玩家积极参与，并增加活动的互动性和吸引力。通过这种方式得来的兑换码，想必玩家也一定感到很有成就感，同时，考虑到其他玩家也在同样努力解题获取兑换码，这种互动也能让玩家体会到“知识就是力量”这句话的含义。
 
 <div align="center">
-	<img src="https://tvax4.sinaimg.cn/large/008EsglKly1ibwy2b8uwdj31hc0u0qv5.jpg" width="500x">
+	<img src="https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/008EsglKly1ibwy2b8uwdj31hc0u0qv5.jpg" width="500x">
 </div>
 
 ## 发放形式

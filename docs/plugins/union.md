@@ -19,7 +19,7 @@
 通过服务器级别的标识与增强的功能，玩家可更好的与其他玩家进行合作，并充分利用服务器资源。
 
 <div align="center">
-	<img src="https://tvax4.sinaimg.cn/large/008EsglKly1ibwx9q0zrij31ld129e82.jpg" width="500x">
+	<img src="https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/008EsglKly1ibwx9q0zrij31ld129e82.jpg" width="500x">
 </div>
 
 ## 基本操作
@@ -71,8 +71,8 @@
 - **联盟公告页面对外可见。**
 
 <p class="badges-center">
-	<img src="https://tvax4.sinaimg.cn/large/008EsglKly1ibwxaeywa1j30cg0e6tat.jpg" width="30%">
-	<img src="https://tvax3.sinaimg.cn/large/008EsglKly1ibwxadykvrj30cb0el0v4.jpg" width="30%">
+	<img src="https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/008EsglKly1ibwxaeywa1j30cg0e6tat.jpg" width="30%">
+	<img src="https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008EsglKly1ibwxadykvrj30cb0el0v4.jpg" width="30%">
 </p>
 
 #### 招新公告
@@ -80,8 +80,8 @@
 - 招新公告只能由联盟盟主和管理员设置。
 
 <p class="badges-center">
-	<img src="https://tvax2.sinaimg.cn/large/008EsglKly1ibwxaed0i1j30c50e8wgr.jpg" width="30%">
-	<img src="https://tvax1.sinaimg.cn/large/008EsglKly1ibwxaeuxzcj309d0c1wg5.jpg" width="30%">
+	<img src="https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/008EsglKly1ibwxaed0i1j30c50e8wgr.jpg" width="30%">
+	<img src="https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/008EsglKly1ibwxaeuxzcj309d0c1wg5.jpg" width="30%">
 </p>
 
 ### 联盟通知
@@ -110,7 +110,7 @@
 ### 联盟等级
 联盟等级是玩家联盟的一个属性，显示在**联盟详情页**和**联盟成员的聊天消息**中。
 <div align="center">
-	<img src="https://tvax4.sinaimg.cn/large/008EsglKly1ibwxurob96j30r902m75g.jpg" width="500x">
+	<img src="https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/008EsglKly1ibwxurob96j30r902m75g.jpg" width="500x">
 </div>
 
 #### 联盟建设度
@@ -132,7 +132,7 @@
 - 超过100级的联盟等级会以特殊样式显示。
 
 <div align="center">
-	<img src="https://tvax3.sinaimg.cn/large/008EsglKly1ibwxurs5apj318202kgnu.jpg" width="500x">
+	<img src="https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008EsglKly1ibwxurs5apj318202kgnu.jpg" width="500x">
 </div>
 
 #### 实际用处
@@ -143,7 +143,7 @@
 #### 你知道吗？
 联盟等级颜色的显示和 **Steam 等级**一致，每10级为一个颜色区间。
 <div align="center">
-	<img src="https://tvax3.sinaimg.cn/large/008EsglKly1ibwxaeof11j30h20gv12v.jpg" width="300x">
+	<img src="https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008EsglKly1ibwxaeof11j30h20gv12v.jpg" width="300x">
 </div>
 
 ### 联盟排行
@@ -151,7 +151,7 @@
 - 默认排序是按照联盟创建时间递增排序（从上到下，由老到新）。
 
 <div align="center">
-	<img src="https://tvax4.sinaimg.cn/large/008EsglKly1ibwxus3z0wj311p0s77g0.jpg" width="500x">
+	<img src="https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/008EsglKly1ibwxus3z0wj311p0s77g0.jpg" width="500x">
 </div>
 
 ### 联盟内聊天
@@ -160,7 +160,7 @@
 - 联盟内聊天中显示的是联盟名称，不是联盟勋章。
 
 <div align="center">
-	<img src="https://tvax4.sinaimg.cn/large/008EsglKly1ibwxae92jrj30wq024jt9.jpg" width="500x">
+	<img src="https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/008EsglKly1ibwxae92jrj30wq024jt9.jpg" width="500x">
 </div>
 
 ### 日志记录
