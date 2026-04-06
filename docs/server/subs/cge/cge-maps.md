@@ -100,12 +100,13 @@
 ### 地铁隧道   <Badge type="info" text="原创" />
 - 正在筹划，暂未上线。
 
-### 战壕   <Badge type="info" text="原创" />
+### 广场   <Badge type="info" text="原创" />
 ![宣传图](https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/008EsglKly1ibx11vmde4j31z418gb2b.jpg "宣传图")
 - 正在完善，暂未上线。
 - 特殊点：开局时天上会随机降下榴弹。
 
-### 机库   <Badge type="info" text="原创" />
-
+### 黑色行动   <Badge type="info" text="原创" />
+![宣传图](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008EsglKly1ibxk6g4xo2j31z4140b2b.jpg "宣传图")
+![宣传图](https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/008EsglKly1ibxk6hcjffj31z4140u0x.jpg "宣传图")
 - 正在完善，暂未上线。
 - 特殊点：雪原生物群系。

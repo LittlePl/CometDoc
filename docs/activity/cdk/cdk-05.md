@@ -12,3 +12,9 @@
 
 ![兑换码发放10答案](https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/008EsglKly1ibx2u1mf3ij31hc0u04oo.jpg "兑换码发放10答案")
 </details>
+
+## 相关内容
+#### 坐标示例
+![宣传图](https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/008EsglKly1ibxk6hzuwsj31z4140qv5.jpg "宣传图")
+#### 原地点
+![宣传图](https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/008EsglKly1ibxk6jakgfj31z418g4qr.jpg "宣传图")

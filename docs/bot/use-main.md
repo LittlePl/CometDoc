@@ -18,9 +18,9 @@
 - 错误示例：
 <ClientOnly>
   <ChatBubble :messages="[
-    { userClass: 'user-2', text: '绑定棍木' },
     { userClass: 'user-2', text: '绑定“Player00336699”' },
     { userClass: 'user-2', text: '绑定游戏名：Player00336699' },
+    { userClass: 'user-2', text: '绑定棍木' },
     { userClass: 'user-2', text: '绑定后面加上游戏名就可以了啊？' }
   ]" />
 </ClientOnly> 

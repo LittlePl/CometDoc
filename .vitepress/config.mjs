@@ -141,8 +141,7 @@ export default defineConfig({
                 { text: '简介', link: '/activity/cdk/cdk-playersum/index.md' },
                 { text: '玩家贡献1', link: '/activity/cdk/cdk-playersum/cdk-player-01' },
                 { text: '玩家贡献2', link: '/activity/cdk/cdk-playersum/cdk-player-02' },
-              ] },
-              { text: '更多功能', link: '/activity' }
+              ] }
             ]
           },
           { text: '撕逼大会', link: '/activity/sibipvp' },

@@ -1,3 +1,9 @@
+---
+prev:
+  text: '兑换码活动'
+  link: 'activity/cdk/index.md'
+---
+
 # 撕逼大会
 ## 简介
 

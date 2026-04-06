@@ -12,13 +12,3 @@
 
 ![兑换码发放11答案](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008EsglKly1ibx2zu27duj31hc0u0ttp.jpg "兑换码发放11答案")
 </details>
-
-## 相关内容
-#### 标准答案（手稿）
-<details>
-<summary>点击查看</summary>
-
-<div align="center">
-	<img src="https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/008EsglKly1ibx31fqcmcj31401hc442.jpg" width="400x"/>
-</div>
-</details>
