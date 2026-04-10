@@ -106,6 +106,7 @@ export default defineConfig({
             ] },
             { text: '服务器税收组', link: '/server/group/taxgroup.md' },
           ] },
+          { text: '服务器财务相关', link: '/server/account.md' },
           { text: '服务器相关链接', link: '/server/link.md' },
           { text: '常见问题', collapsed: true, items: [
             { text: '进不去服务器', link: '/server/help/wt.md' },
