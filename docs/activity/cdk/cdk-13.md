@@ -6,11 +6,11 @@
 - 本期题目由 liyanda0349 改编，YanziHa0 发布。
 
 ## 原问题
-![兑换码发放18](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008EsglKly1ibx3gk856qj31hc0u0x6p.jpg "兑换码发放18")
+![兑换码发放18](https://cdn.ipfsscan.io/weibo/large/008EsglKly1ibx3gk856qj31hc0u0x6p.jpg "兑换码发放18")
 
 ## 答案
 <details>
 <summary>点击查看答案</summary>
 
-![兑换码发放18答案](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008EsglKly1ibx3gl7z5wj31hc0u0qv5.jpg "兑换码发放18答案")
+![兑换码发放18答案](https://cdn.ipfsscan.io/weibo/large/008EsglKly1ibx3gl7z5wj31hc0u0qv5.jpg "兑换码发放18答案")
 </details>

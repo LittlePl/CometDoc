@@ -4,7 +4,7 @@ prev:
   link: 'activity/cdk/index.md'
 ---
 
-# 撕逼大会
+# 撕逼大会 <Badge type="tip" text="生存"/>
 ## 简介
 
 ## 活动截图

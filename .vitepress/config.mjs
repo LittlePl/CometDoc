@@ -4,14 +4,38 @@ import { set_sidebar } from "../utils/auto-sidebar.mjs";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "docs",
-  
   title: "Comet 服务器文档站",
   description: "Powered by VitePress",
+  lastUpdated: true,
+  head: [
+      ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo:'/logo.png',
-    outlineTitle: "页面导航",
+    logo:'/server-logo.png',
     outline: [2, 3],
+    
+    outlineTitle: "页面导航",
+    lastUpdated: {
+      text: '最后更新于'
+    },
+    notFound: {
+      title: '页面未找到',
+      quote:
+        '但如果你不改变方向，并且继续寻找，你可能最终会到达你所前往的地方。',
+      linkLabel: '前往首页',
+      linkText: '带我回首页'
+    },
+    langMenuLabel: '多语言',
+    returnToTopLabel: '回到顶部',
+    sidebarMenuLabel: '菜单',
+    darkModeSwitchLabel: '主题',
+    lightModeSwitchTitle: '切换到浅色模式',
+    darkModeSwitchTitle: '切换到深色模式',
+    skipToContentLabel: '跳转到内容',
+    footer: {
+      copyright:"Copyright © 2023-2026 Comet 陆上彗星管理组"
+    },
     docFooter: {
       prev: '上一页',
       next: '下一页'
@@ -31,6 +55,7 @@ export default defineConfig({
       ]},
       { text: '活动', items:[
         { text: '兑换码活动', link: '/activity/cdk/index.md' },
+        { text: 'Kongtouの靶场', link: '/activity/shootrange.md' },
         { text: '撕逼大会', link: '/activity/sibipvp' },
         { text: 'Special Week', link: '/activity/spweek/index.md' },
       ] },
@@ -144,6 +169,7 @@ export default defineConfig({
               ] }
             ]
           },
+          { text: 'Kongtouの靶场', link: '/activity/shootrange.md' },
           { text: '撕逼大会', link: '/activity/sibipvp' },
           { text: 'Special Week', link: '/activity/spweek/index.md' },
         ]
@@ -177,10 +203,6 @@ export default defineConfig({
       { icon: 'web', link: 'https://github.com/vuejs/vitepress' }
     ],
 
-    footer: {
-      copyright:"Copyright © 2023-2026 Comet 陆上彗星管理组"
-    },
-
     search: {
       provider: 'local',
       options: {
@@ -195,7 +217,7 @@ export default defineConfig({
             footer: {
               selectText: "选择",
               navigateText: "切换",
-              closeText: "退出搜索",
+              closeText: "关闭搜索",
             }
           }
         }

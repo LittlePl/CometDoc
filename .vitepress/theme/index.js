@@ -3,6 +3,11 @@ import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
 
+import 'viewerjs/dist/viewer.min.css'
+import imageViewer from 'vitepress-plugin-image-viewer';
+import vImageViewer from 'vitepress-plugin-image-viewer/lib/vImageViewer.vue';
+import { useRoute } from 'vitepress';
+
 /** @type {import('vitepress').Theme} */
 export default {
   extends: DefaultTheme,
@@ -11,7 +16,14 @@ export default {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
     })
   },
-  enhanceApp({ app, router, siteData }) {
-    // ...
+  enhanceApp(ctx) {
+    DefaultTheme.enhanceApp(ctx);
+    // 注册全局组件（可选）
+    ctx.app.component('vImageViewer', vImageViewer);
+  },
+  setup() {
+    const route = useRoute();
+    // 启用插件
+    imageViewer(route);
   }
 }

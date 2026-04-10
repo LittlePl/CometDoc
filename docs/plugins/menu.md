@@ -9,7 +9,7 @@ next:
 服务器菜单可以极大地方便玩家使用服务器提供的一系列功能（如 /tpa 等），而不需要使用繁琐的指令。
 
 <div align="center">
-	<img src="https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/008EsglKly1ibwx2su782j3280190b2a.jpg" width="500x">
+	<img src="https://cdn.ipfsscan.io/weibo/large/008EsglKly1iby49ubz21j31z4140hdt.jpg" width="600x">
 </div>
 
 在游戏内手持服务器的规定物品点地，即可迅速便捷地打开服务器菜单。当物品栏中没有规定物品时，玩家也可以在聊天框中输入`/m`来打开服务器菜单。
@@ -17,7 +17,7 @@ next:
 我们尽最大所能使服务器菜单更易用，并尽力涵盖服务器具备的所有功能。以下是 Comet 生存服务器菜单思维导图：
 
 ## 思维导图
-![Comet 生存服务器思维导图](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008EsglKly1ibwx465w7pj31e231gati.jpg "Comet 生存服务器思维导图")
+![Comet 生存服务器思维导图](https://cdn.ipfsscan.io/weibo/large/008EsglKly1ibwx465w7pj31e231gati.jpg "Comet 生存服务器思维导图")
 
 通过浏览思维导图，您应该能了解到服务器菜单是如何便民的了。
 

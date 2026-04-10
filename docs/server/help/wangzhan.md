@@ -18,10 +18,10 @@ C:\Windows\System32\drivers\etc
 ### 解决方案3：刷新或更新DNS和IP地址 （亲测有效）
 有时这个错误为DNS和IP阻止问题创建。所以需要刷新DNS，并发布或更新可能解决错误的IP地址。首先，进入开始菜单，然后在搜索框中键入“CMD”，从键盘上按Enter按钮。当您输入时，命令提示符窗口将弹出您的显示器。
 在该窗口中，逐个复制以下行中的每一行，并粘贴到命令提示符窗口中，并在每一行之后按Enter按钮。
-• ipconfig / renew
-• ipconfig / registerdns
-• ipconfig / flushdns
-• ipconfig / release
+o ipconfig / renew
+o ipconfig / registerdns
+o ipconfig / flushdns
+o ipconfig / release
 完成之后，请重新启动PC执行，并检查’ err_connection_timed_out ‘错误是否已经消失。
 ### 解决方案4：过滤防火墙和网站
 检查Windows防火墙和互联网安全设置，以确保互联网浏览器不被阻止浏览互联网。如果已在计算机中安装过任何网站过滤软件，则需要卸载。

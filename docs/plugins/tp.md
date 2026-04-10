@@ -1,4 +1,4 @@
-# 传送系统 <Badge type="tip" text="生存"/> <Badge type="tip" text="空岛"/>
+# 传送系统 <Badge type="tip" text="生存"/> <Badge type="tip" text="模组"/> <Badge type="tip" text="空岛"/>
 ## 简介
 传送系统为玩家提供一系列传送功能，包括玩家间传送、返回死亡点等，可满足玩家基本的传送需求。**Comet 生存服务器**和 **Comet 模组服务器**具有这个功能。部分服务器可能会根据实际情况对玩家提供的功能进行调整或删减。
 

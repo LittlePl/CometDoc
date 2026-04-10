@@ -3,4 +3,4 @@
 
 ## 预览窗口
 [点我跳转至页面。](/server/group/creator/index.md "Comet 创作者团队")
-<iframe height=640 width=100% src="https://doc.mccomet.top/server/group/creator/" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+<iframe height=450 width=100% src="https://doc.mccomet.top/server/group/creator/" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>

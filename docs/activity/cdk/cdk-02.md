@@ -5,11 +5,11 @@
 - 本期题目由 liyanda0349 改编并发布。
 
 ## 原问题
-![兑换码发放7](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/008EsglKly1ibx28n9qvmj31hc0u0b29.jpg "兑换码发放7")
+![兑换码发放7](https://cdn.ipfsscan.io/weibo/large/008EsglKly1ibx28n9qvmj31hc0u0b29.jpg "兑换码发放7")
 
 ## 答案
 <details>
 <summary>点击查看答案</summary>
 
-![兑换码发放7答案](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008EsglKly1ibx28nsdzbj31hc0u0e21.jpg "兑换码发放7答案")
+![兑换码发放7答案](https://cdn.ipfsscan.io/weibo/large/008EsglKly1ibx28nsdzbj31hc0u0e21.jpg "兑换码发放7答案")
 </details>

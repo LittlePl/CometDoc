@@ -1,7 +1,7 @@
 # 主要功能
 玩家需**在QQ群中**，**发送指定的消息**来触发机器人。机器人被触发后将根据玩家发送的消息，执行一系列预设好的事件。以下是机器人目前支持的所有功能和使用方法：
 
-## 添加白名单 <Badge type="info" text="主要" />
+## 添加白名单 <Badge type="info" text="入服必备" />
 在群聊中发送`绑定<游戏名>`可将该游戏ID添加至服务器的白名单之中，其中`<游戏名>`更换为你自己的游戏名。
 :::warning 注意
 消息中不要附带额外的符号（如 `<>` `""` 等），且**游戏名需要区分大小写**。
@@ -72,7 +72,7 @@
 <ClientOnly>
   <ChatBubble :messages="[
     { userClass: 'user-2', text: '服务器信息' },
-    { userClass: 'user-1', text: '🔮以下是生存服务器的一些信息：\n✨游戏版本：v1.21.132\n✨游戏协议：898\n✨服务器天气：晴天☀️\n✨游戏时间：5794天\n✨服务端已运行：3.34小时\n✨平均TPS: 19.96\n✨平均MSPT: 49.90\n✨在线2人' }
+    { userClass: 'user-1', text: '以下是生存服务器的一些信息：\n游戏版本：v1.21.132\n游戏协议：898\n服务器天气：晴天\n游戏时间：5794天\n服务端已运行：3.34小时\n平均TPS: 19.96\n平均MSPT: 49.90\n在线2人' }
   ]" />
 </ClientOnly> 
 
@@ -82,14 +82,14 @@
 <ClientOnly>
   <ChatBubble :messages="[
     { userClass: 'user-2', text: 'TPS' },
-    { userClass: 'user-1', text: '🔮生存服务器TPS(tick/s)：\n✨实时TPS：20.00 😆\n✨平均TPS：19.87 😄\n🔮生存服务器MSPT(ms)：\n✨实时MSPT：65 😀\n✨平均MSPT：50.04 😄\n🔮在线1人' }
+    { userClass: 'user-1', text: '生存服务器TPS(tick/s)：\n实时TPS：20.00 \n平均TPS：19.87 \n生存服务器MSPT(ms)：\n实时MSPT：65 \n平均MSPT：50.04 \n在线1人' }
   ]" />
 </ClientOnly>
 <br>
 <ClientOnly>
   <ChatBubble :messages="[
     { userClass: 'user-2', text: 'TPS' },
-    { userClass: 'user-1', text: '🔮生存服务器TPS(tick/s)：\n✨实时TPS：8.58 😣\n✨平均TPS：18.74 😃\n🔮生存服务器MSPT(ms)：\n✨实时MSPT：479 😇\n✨平均MSPT：97.09 😐\n🔮在线19人' }
+    { userClass: 'user-1', text: '生存服务器TPS(tick/s)：\n实时TPS：8.58 \n平均TPS：18.74 \n生存服务器MSPT(ms)：\n实时MSPT：479 \n平均MSPT：97.09 \n在线19人' }
   ]" />
 </ClientOnly> 
 
@@ -99,7 +99,7 @@
 <ClientOnly>
   <ChatBubble :messages="[
     { userClass: 'user-2', text: '主机' },
-    { userClass: 'user-1', text: '🔮服务器主机信息：\n✨CPU占用: 2.29%\n✨CPU核数：4\n✨内存占用: 4.62G/8.00G 57.75%\n✨主机已运行：275.95小时' }
+    { userClass: 'user-1', text: '服务器主机信息：\nCPU占用: 2.29%\nCPU核数：4\n内存占用: 4.62G/8.00G 57.75%\n主机已运行：275.95小时' }
   ]" />
 </ClientOnly> 
 

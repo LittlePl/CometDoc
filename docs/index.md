@@ -18,11 +18,14 @@ hero:
       link: https://www.mccomet.top/
 
 features:
-  - title: 快速了解服务器
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 服务器功能指南
+  - icon: ➡️
+    title: 进一步了解服务器
+    details: 深入探索各个服务器的特色内容。
+  - icon: 🔧
+    title: 服务器功能指南
     details: 了解各个服务器具有的功能，让游戏效率事半功倍。
-  - title: 查阅管理条例
+  - icon: ⚖️
+    title: 查阅管理条例
     details: 了解 Comet 服务器如何规定并打击一系列违规行为，有利于自己正常游玩并适当维权。
 ---
 

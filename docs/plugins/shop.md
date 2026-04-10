@@ -84,18 +84,18 @@
 **重要说明：只有URL图标才是真正意义上的自定义图标，其他类型实际上是引用 Minecraft 本地资源。**
 
 1. **本地图标**：
-    ◦ 使用服务器插件目录中准备好的图片；
-    ◦ 路径：./plugins/ShoppingMall/ui/*.png；
-    ◦ 实际引用格式为：textures/ui/图片名称。
+    o 使用服务器插件目录中准备好的图片；
+    o 路径：./plugins/ShoppingMall/ui/*.png；
+    o 实际引用格式为：textures/ui/图片名称。
 
 2. **URL图标**（真正的自定义图标）：
-    ◦ 使用网络图片链接；
-    ◦ 格式必须为 http:// 或 https:// 开头；
-    ◦ 管理员可能设置域名限制。
+    o 使用网络图片链接；
+    o 格式必须为 http:// 或 https:// 开头；
+    o 管理员可能设置域名限制。
 
 3. **自定义路径图标**：
-    ◦ 引用Minecraft内置的资源路径；
-    ◦ 例如：textures/ui/store_home_icon。
+    o 引用Minecraft内置的资源路径；
+    o 例如：textures/ui/store_home_icon。
 
 #### 图标修改说明
 - 每种图标类型都有独立的修改费用和冷却时间；
