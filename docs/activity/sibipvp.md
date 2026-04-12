@@ -1,7 +1,7 @@
 ---
 prev:
-  text: '兑换码活动'
-  link: 'activity/cdk/index.md'
+  text: 'Kongtouの靶场'
+  link: 'activity/cdk/shootrange.md'
 ---
 
 # 撕逼大会 <Badge type="tip" text="生存"/>

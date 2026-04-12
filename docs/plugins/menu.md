@@ -4,7 +4,7 @@ next:
   link: '/plugins/tp'
 ---
 
-# 服务器菜单 <Badge type="tip" text="生存"/> <Badge type="tip" text="空岛"/> <Badge type="tip" text="枪战"/>
+# 服务器菜单 <Badge type="tip" text="生存"/> <Badge type="tip" text="模组"/> <Badge type="tip" text="空岛"/> <Badge type="tip" text="枪战"/>
 ## 简介
 服务器菜单可以极大地方便玩家使用服务器提供的一系列功能（如 /tpa 等），而不需要使用繁琐的指令。
 

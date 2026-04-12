@@ -22,7 +22,7 @@ export default defineConfig({
     notFound: {
       title: '页面未找到',
       quote:
-        '但如果你不改变方向，并且继续寻找，你可能最终会到达你所前往的地方。',
+        '🐮：我测试你的码，发配你到原神当星怒',
       linkLabel: '前往首页',
       linkText: '带我回首页'
     },
@@ -199,9 +199,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'qq', link: 'https://github.com/vuejs/vitepress' },
-      { icon: 'bilibili', link: 'https://github.com/vuejs/vitepress' },
-      { icon: 'web', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'qq', link: 'https://qm.qq.com/q/LQnC78jXSW' },
+      { icon: 'bilibili', link: 'https://space.bilibili.com/535053377' }
     ],
 
     search: {
