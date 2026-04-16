@@ -22,7 +22,7 @@ export default defineConfig({
     notFound: {
       title: '页面未找到',
       quote:
-        '🐮：我测试你的码，发配你到原神当星怒',
+        '页面飞走了，不如去抽一发十连？',
       linkLabel: '前往首页',
       linkText: '带我回首页'
     },
