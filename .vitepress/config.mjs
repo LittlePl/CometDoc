@@ -99,7 +99,10 @@ export default defineConfig({
           { text: '服务器插件概览', link: '/server/plugins.md' },
           { text: '服务器备份系统', link: '/server/backup.md' },
           { text: '服务器官方组织', collapsed: true, items: [
-            { text: '服务器管理组', link: '/server/group/admingroup.md' },
+            { text: 'Comet 服务器管理组', collapsed: true, items: [
+              { text: '简介', link: '/server/group/admin/admingroup.md' },
+              { text: '成员招募', link: '/server/group/admin/adminadd.md' },
+            ] },
             { text: 'Comet 创作者团队', collapsed: true, items: [
               { text: '简介', link: '/server/group/creator/index.md' },
               { text: '成员招募活动', link: '/server/group/creator/creator-recruit.md' },
@@ -136,6 +139,7 @@ export default defineConfig({
           { text: '死亡掉落经济机制', link: '/plugins/ddm' },
           { text: '刷矿机', link: '/plugins/is-mining' },
           { text: '聊天消息样式', link: '/plugins/chat' },
+          { text: '玩家遗产处理规则', link: '/admin/playerleave' },
           { text: '个性化图标', link: '/plugins/icon' }
         ]
       },
@@ -193,7 +197,7 @@ export default defineConfig({
           { text: '黑名单违规介绍', link: '/admin/server-rules' },
           { text: '违规处理', link: '/admin/manage' },
           { text: '举报与申诉', link: '/admin/report' },
-          { text: '玩家遗产处理规则', link: '/admin/playerleave' },
+          { text: '参与建设文档站', link: '/admin/docbuild' },
         ]
       }
     ],
