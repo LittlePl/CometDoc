@@ -2,7 +2,7 @@
 next: false
 ---
 
-# 参与建设文档站
+# 参与建设文档站 <Badge type="warning" text="Public Archive" />
 :::danger  注意
 **此页面仅供留档，内容已不再生效。**
 

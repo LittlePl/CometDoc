@@ -193,10 +193,10 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '玩家守则', link: '/admin/rules' },
-          { text: '管理员守则', link: '/admin/admin-rules' },
           { text: '黑名单违规介绍', link: '/admin/server-rules' },
           { text: '违规处理', link: '/admin/manage' },
           { text: '举报与申诉', link: '/admin/report' },
+          { text: '管理员守则', link: '/admin/admin-rules' },
           { text: '参与建设文档站', link: '/admin/docbuild' },
         ]
       }
