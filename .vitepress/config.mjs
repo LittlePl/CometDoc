@@ -49,7 +49,7 @@ export default defineConfig({
         { text: '服务器管理组', link: '/server/group/admin/admingroup' },
         { text: '服务器财务', link: '/server/account' },
       ], activeMatch: '/server' },
-      { text: '游戏指南', items: [
+      { text: '功能指南', items: [
         { text: '服务器功能', link: '/manual/plugins/menu', activeMatch: '/manual/plugins' },
         { text: '绑定与白名单', link: '/manual/bot/', activeMatch: '/manual/bot' },
       ] },
