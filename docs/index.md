@@ -20,12 +20,24 @@ hero:
 features:
   - icon: ➡️
     title: 进一步了解服务器
-    details: 深入探索各个服务器的特色内容。
+    details: 了解服务器的详细信息，包括服务器的运行情况、功能、规则等。
+    link: /server/
   - icon: 🔧
     title: 服务器功能指南
-    details: 了解各个服务器具有的功能，让游戏效率事半功倍。
+    details: 了解服务器的详细功能，包括插件、命令等，并学会使用。
+    link: /manual/plugins/menu
+  - icon: 📚
+    title: 服务器档案馆
+    details: 珍藏服务器发展历程，记录重大活动、玩家贡献与历史瞬间，传承服务器文化。
+    link: /archive/activity/cdk
   - icon: ⚖️
     title: 查阅管理条例
     details: 了解 Comet 服务器如何规定并打击一系列违规行为，有利于自己正常游玩并适当维权。
+    link: /admin/rules
 ---
 
+<style>
+  :root {
+    --vp-home-hero-name-color: #2c4a8b;
+  }
+</style>

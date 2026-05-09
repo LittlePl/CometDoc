@@ -109,5 +109,5 @@
 2. 若绑定过白名单的玩家离开了群聊，机器人会对该玩家进行解绑操作，也就是说玩家若想正常游玩服务器，必须保持在群聊中，否则将不能加入服务器。
 
 <script setup>
-import ChatBubble from '../../.vitepress/components/ChatBubble.vue';
+import ChatBubble from '../../../.vitepress/components/ChatBubble.vue';
 </script>

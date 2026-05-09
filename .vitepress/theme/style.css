@@ -135,7 +135,15 @@
   justify-content: center;
 }
 
+.vp-doc img {
+  margin: 16px 0;
+}
+
 .inpic {
   display: inline-block;
-  margin: 0 0 -20px 0;
+  margin: 0 0 -4px 0;
+}
+
+.inpic img {
+  margin: 0;
 }

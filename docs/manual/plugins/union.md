@@ -45,7 +45,7 @@
 
 #### 联盟勋章
 - 联盟勋章是联盟成员的统一头衔，**会在聊天消息和玩家顶部名字处显示**。默认联盟勋章和联盟名字一致，建议和联盟名称保持一致。
-- 未加入联盟的玩家，头顶只会显示该玩家的名字，聊天栏对应位置会显示“<span class="inpic"><img src="/plugins/img/nounion.png" width="55px"></span>”。
+- 未加入联盟的玩家，头顶只会显示该玩家的名字，聊天栏对应位置会显示“<span class="inpic"><img src="/manual/plugins/img/nounion.png" width="55px"></span>”。
 
 #### 设置联盟图标
 - 设置联盟图标需要使用资源包标准路径。默认联盟图标为`textures/ui/mashup_world`，这些图标存在于所有玩家的游戏中，因此才能对每个玩家都正常显示。
