@@ -45,7 +45,7 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '总览', items: [
         { text: '服务器简介', link: '/server/' },
-        { text: '群组服务器', link: '/server/subs/main' },
+        { text: '子服务器', link: '/server/subs/main' },
         { text: '服务器管理组', link: '/server/group/admin/admingroup' },
         { text: '服务器财务', link: '/server/account' },
       ], activeMatch: '/server' },

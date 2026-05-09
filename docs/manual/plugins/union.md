@@ -49,7 +49,7 @@
 
 #### 设置联盟图标
 - 设置联盟图标需要使用资源包标准路径。默认联盟图标为`textures/ui/mashup_world`，这些图标存在于所有玩家的游戏中，因此才能对每个玩家都正常显示。
-- 关于自定义图标的技巧，请查看<a href="/icon" target="_blank">个性化图标</a>。
+- 关于自定义图标的技巧，请查看<a href="/manual/plugins/icon.html" target="_blank">个性化图标</a>。
 
 ### 联盟公告
 #### 联盟公告
