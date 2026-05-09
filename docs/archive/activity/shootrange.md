@@ -27,7 +27,7 @@
 
 ## 游戏规则
 玩家在游戏正式开始后的1分钟时间内对场地内的靶子进行射击，尽可能在这段时间内获取更多奖励并尝试去射击墙靶和活动靶。
-![靶场开始游戏](https://cdn.ipfsscan.io/weibo/large/008EsglKly1ibyhsihgxsj31x10zw1kx.jpg)<br>
+![靶场开始游戏](https://cdn.ipfsscan.io/weibo/large/008EsglKly1ibyhsihgxsj31x10zw1kx.jpg)
 ![靶场正常游戏](https://cdn.ipfsscan.io/weibo/large/008EsglKly1ibyhzdgfayj313t0r0b24.jpg)
 
 ## 注意事项

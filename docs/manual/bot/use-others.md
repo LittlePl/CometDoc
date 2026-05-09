@@ -29,5 +29,5 @@
 3. 在进行人机验证时，如果用户没有发送验证码，但却发送了绑定命令，系统可以通过识别该命令直接跳过人机验证，而无需用户再发送验证码。
 
 <script setup>
-import ChatBubble from '../../.vitepress/components/ChatBubble.vue';
+import ChatBubble from '../../../.vitepress/components/ChatBubble.vue';
 </script>
