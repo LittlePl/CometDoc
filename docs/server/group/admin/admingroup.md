@@ -1,5 +1,5 @@
 <style>
-  .vp-doc img {
+  img.avatar-img {
     margin: 0;
   }
 </style>
