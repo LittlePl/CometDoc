@@ -10,11 +10,47 @@ Comet 生存服务器配备有译名修正资源包、独家唱片包、背景�
 
 ## 资源包列表
 Comet 陆上彗星服务器拥有以下资源包：
-- Comet 译名修正资源包
-- Comet 服务器唱片包
-- Comet 环境资源包
-- Comet 死亡播报资源包
-- Comet 声优包
+::: tip 提示
+点击卡片可以查看资源包详情和更新日志。
+:::
+<ResourceMeta
+	name="Comet 译名修正资源包"
+	icon="https://cdn.ipfsscan.io/weibo/thumbnail/008EsglKly1id5akbx98lj30u00u0dif.jpg"
+	tip="适配 1.26.10"
+	createdAt="2026-05-08"
+	size="1.4"
+	desc="Comet 服务器的译名修正资源包，用于修正游戏内的译名问题。"
+/>
+<ResourceMeta
+	name="Comet 服务器唱片包"
+	icon="https://cdn.ipfsscan.io/weibo/thumbnail/008EsglKly1id5akc32cwj30u00u0q5p.jpg"
+	tip="2025-3-3 | 第十二次更新"
+	createdAt="2024-01-15"
+	size="41.6"
+	desc="Comet 服务器的唱片包，用于修改游戏内的唱片资源和唱片材质。"
+	link="./resources/musicdisc"
+/>
+<ResourceMeta
+	name="Comet 环境资源包"
+	icon="https://cdn.ipfsscan.io/weibo/thumbnail/008EsglKly1id5akbscquj30u00u0gq2.jpg"
+	createdAt="2022-08-13"
+	size="8.0"
+	desc="此资源包用于向服务器添加或修改游戏中的音频或材质。"
+/>
+<ResourceMeta
+	name="Comet 死亡播报资源包"
+	icon="https://cdn.ipfsscan.io/weibo/thumbnail/008EsglKly1id5akbx98lj30u00u0dif.jpg"
+	createdAt="2024-03-30"
+	size="0.1"
+	desc="用于修改游戏内的死亡播报内容，使其变得更生动趣味。"
+/>
+<ResourceMeta
+	name="Comet 声优包"
+	icon="https://cdn.ipfsscan.io/weibo/thumbnail/008EsglKly1id5apf8gu7j30u00u0wij.jpg"
+	createdAt="2023-06-16"
+	size="1.6"
+	desc="用于向服务器提供一些音频资源，供一些特色设施使用。"
+/>
 
 ## 服务器资源包通用情景
 :::tip
@@ -39,3 +75,7 @@ Comet 陆上彗星服务器拥有以下资源包：
 #### Q：在连接服务器并下载服务器资源包的时候，进度条一直卡着不动。
 
 - A：这种情况是服务器端出问题了，联系管理员重启服务器，然后重新连接服务器即可。
+
+<script setup>
+	import ResourceMeta from '../../.vitepress/components/ResourceMeta.vue';
+</script>

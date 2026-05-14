@@ -36,8 +36,35 @@ features:
     link: /admin/rules
 ---
 
+## 我们的赞助者
+
+<SponsorList :sponsors="mySponsors" />
+
 <style>
   :root {
     --vp-home-hero-name-color: #2c4a8b;
   }
 </style>
+
+<script setup>
+  import SponsorList from '../.vitepress/components/SponsorList.vue'
+
+  // 这里定义你的赞助者数据，你也可以把它抽离到一个单独的 ts/json 文件中引入
+  const mySponsors = [
+    {
+      name: '鸡蛋',
+      avatar: 'https://q.qlogo.cn/g?b=qq&nk=3529336723&s=160',
+      message: '坚持，创造奇迹'
+    },
+    {
+      name: 'HereIsSoil',
+      avatar: 'https://q.qlogo.cn/g?b=qq&nk=3958656941&s=160',
+      message: '助服务器长命百岁'
+    },
+    {
+      name: 'BarterMoss63052',
+      avatar: 'https://q.qlogo.cn/g?b=qq&nk=2044298043&s=160',
+      message: '请输入文本'
+    }
+  ]
+</script>

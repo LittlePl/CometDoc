@@ -186,7 +186,7 @@ export default defineConfig({
               ] },
               { text: '服务器税收组', link: '/server/group/taxgroup.md' },
             ] },
-            { text: '财务相关', link: '/server/account.md' },
+            { text: '赞助与财务', link: '/server/account.md' },
             { text: '相关链接', link: '/server/link.md' },
           ]
         },
