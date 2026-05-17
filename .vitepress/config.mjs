@@ -129,6 +129,7 @@ export default defineConfig({
             { text: '通用货币', link: '/manual/plugins/ucs' },
             { text: '移动光源', link: '/manual/plugins/dynamiclights' },
             { text: '死亡掉落经济机制', link: '/manual/plugins/ddm' },
+            { text: '自助查询工具', link: '/manual/plugins/blocklog' },
             { text: '刷矿机', link: '/manual/plugins/is-mining' },
             { text: '聊天消息样式', link: '/manual/plugins/chat' },
             { text: '个性化图标', link: '/manual/plugins/icon' }
