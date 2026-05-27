@@ -1,10 +1,12 @@
 # Comet 生存服务器 <Badge type="info" text="三周目" />
+> 开服时间：2026.2.2
 
 ## 往期周目介绍
-- [Comet 生存服务器二周目](/server/subs/old/main-2.md "二周目介绍")
+- [Comet 生存服务器一周目](/server/subs/old/main/main-1.md "一周目介绍")
+- [Comet 生存服务器二周目](/server/subs/old/main/main-2.md "二周目介绍")
 
 ## 简介
-Comet 生存服务器是以生存和玩家互动为核心的服务器，加入这个服务器，玩家将出生在位于地下 y 轴 -52 的深黑古城。玩家需要利用求生的智慧，与其他玩家一同逃出困境、搜寻物资，最终踏入生存之道。
+Comet 生存服务器是以**生存和玩家互动**为核心的服务器，加入这个服务器，玩家将出生在位于地下 y 轴 -52 的深黑古城。玩家需要利用求生的智慧，与其他玩家一同逃出困境、搜寻物资，最终踏入生存之道。
 
 ## 宣传视频
 <iframe style="width=100%; aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?isOutside=true&aid=116007150686724&bvid=BV14rfDBeENV&cid=35798911260&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

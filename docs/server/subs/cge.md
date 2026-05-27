@@ -11,6 +11,7 @@
 </style>
 
 # Comet 枪战服务器 <Badge type="warning" text="Public Archive" />
+> 开服时间：2023.8.1 ~ 2025.2.15
 :::danger 注意
 由于版本适配、模组适配、日常维护、玩家活跃情况、机能限制等原因，此服务器已停运。
 :::
