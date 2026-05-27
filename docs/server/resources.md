@@ -42,7 +42,7 @@ Comet 陆上彗星服务器拥有以下资源包：
 	icon="https://cdn.ipfsscan.io/weibo/thumbnail/008EsglKly1id5akbx98lj30u00u0dif.jpg"
 	createdAt="2024-03-30"
 	size="0.1"
-	desc="用于修改游戏内的死亡播报内容，使其变得更生动趣味。"
+	desc="用于修改游戏内的死亡提示内容，使其变得更生动趣味。"
 />
 <ResourceMeta
 	name="Comet 声优包"
