@@ -17,7 +17,7 @@ Comet 陆上彗星服务器拥有以下资源包：
 	name="Comet 译名修正资源包"
 	icon="https://cdn.ipfsscan.io/weibo/thumbnail/008EsglKly1id5akbx98lj30u00u0dif.jpg"
 	tip="适配 1.26.10"
-	createdAt="2026-05-08"
+	createdAt="2022-02-16"
 	size="1.4"
 	desc="Comet 服务器的译名修正资源包，用于修正游戏内的译名问题。"
 />
@@ -25,7 +25,7 @@ Comet 陆上彗星服务器拥有以下资源包：
 	name="Comet 服务器唱片包"
 	icon="https://cdn.ipfsscan.io/weibo/thumbnail/008EsglKly1id5akc32cwj30u00u0q5p.jpg"
 	tip="2025-3-3 | 第十二次更新"
-	createdAt="2024-01-15"
+	createdAt="2022-02-16"
 	size="41.6"
 	desc="Comet 服务器的唱片包，用于修改游戏内的唱片资源和唱片材质。"
 	link="./resources/musicdisc"
