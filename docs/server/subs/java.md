@@ -23,7 +23,7 @@ Comet Java 私服是一个由社区强力驱动，且运行在物理机上的插
 ## 成员组成
 - 服主：鸡蛋 (forever1592)
 - 高管：
-  - Yanda (COBI606)
+  - Yanda (lynda9IV1P)
   - Kongtou (kongtou8211)
   - 无情兰剑 (Bluesd_)
 - 管理员：
