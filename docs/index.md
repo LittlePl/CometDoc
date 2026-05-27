@@ -36,7 +36,7 @@ features:
     link: /admin/rules
 ---
 
-## 我们的赞助者
+## 我们的支持者
 
 <SponsorList :sponsors="mySponsors" />
 
